@@ -1,0 +1,55 @@
+[demonstrations] [3D] https://g.fxtwitter.com/Pixel_exe_/status/1788401408913334685 
+[demonstrations] [3D] https://g.fxtwitter.com/PrismaSinclair/status/1806006169854476733 
+[demonstrations] [3D] https://g.fxtwitter.com/ginyoagoldie/status/1783911149391716750 
+[demonstrations] [3D] https://g.fxtwitter.com/kensyouen_Y/status/1795029722541306131 
+[demonstrations] [3D] https://g.fxtwitter.com/key_vfx/status/1748907772840669693 
+[demonstrations] [3D] https://g.fxtwitter.com/leedoppo/status/1759112035483414566 
+[demonstrations] [3D] https://youtube.com/embed/jJ5_a2VISfI 
+[demonstrations] [anatomy] https://g.fxtwitter.com/2kgjnbg/status/1868517573870108789/video/1
+[demonstrations] [anatomy] https://g.fxtwitter.com/AnatomyStandard/status/1824055017738805685 
+[demonstrations] [anatomy] https://g.fxtwitter.com/Bii_yam/status/1822248918601826348 
+[demonstrations] [anatomy] https://g.fxtwitter.com/EcyCsPixpipbu4J/status/1780483028810186850 
+[demonstrations] [anatomy] https://g.fxtwitter.com/KawaiiSensei_jp/status/1792873025429483594 
+[demonstrations] [anatomy] https://g.fxtwitter.com/Kurt_Bestor/status/1776400597811650894 
+[demonstrations] [clothes] https://g.fxtwitter.com/simodasketch/status/1781609853133472198 
+[demonstrations] [live2d] https://g.fxtwitter.com/suge0101/status/1807757874090697083 
+[demonstrations] [perspective] https://www.youtube.com/embed/mviL1O15H2c 
+[demonstrations] [rendering] https://g.fxtwitter.com/nouconcept/status/1799111500092850422 
+[demonstrations] [rendering] https://g.fxtwitter.com/sebijy1/status/1799112669133455847 
+[glossaries] [clothes] https://g.fxtwitter.com/NotSoKinkyArts/status/1735638115098771781 
+[glossaries] [materials] https://g.fxtwitter.com/EtheringtonBros/status/1740324786528719109 
+[guides] [AI] https://note.com/abubu_nounanka 
+[guides] [anatomy] https://g.fxtwitter.com/EcyCsPixpipbu4J/status/1785585131199328442 
+[guides] [anatomy] https://g.fxtwitter.com/PrivateAnime/status/1776625914853441679 
+[guides] [anatomy] https://g.fxtwitter.com/PrivateAnime/status/1777350698713350324 
+[guides] [anatomy] https://g.fxtwitter.com/tomfoxdraws/status/1573281533175250946 
+[guides] [anatomy] https://g.fxtwitter.com/tomfoxdraws/status/1591083597347246082 
+[guides] [anime] [eyes] https://g.fxtwitter.com/PrivateAnime/status/1778800241858478122 
+[guides] [anime] [faces] https://g.fxtwitter.com/PrivateAnime/status/1779162627144593427 
+[guides] [anime] [hair] https://g.fxtwitter.com/chene_1217/status/1774361674696495110 
+[guides] [anime] https://g.fxtwitter.com/Meow256Meow/status/1856650337056338025
+[guides] [clothes] https://g.fxtwitter.com/asayris_art/status/1777738501309510042 
+[guides] [composition] https://g.fxtwitter.com/kyler_steele/status/1806387541018595775 
+[guides] [landscape] https://g.fxtwitter.com/katalyst_art/status/1767707108013916638 
+[guides] [perspective] https://g.fxtwitter.com/PrivateAnime/status/1776263539784577522 
+[guides] [perspective] https://g.fxtwitter.com/PrivateAnime/status/1779615618309750958 
+[guides] [perspective] https://imgur.com/gallery/V5Prm 
+[guides] [production] https://docs.google.com/document/d/1c7L-_m6UStqH_ZiLPeeibeQ6mgjewYdi/
+[lessons] [3d] https://youtube.com/embed/tbWBIT28Zts 
+[lessons] [anime] [eyes] https://www.youtube.com/embed/rNwzCAiqNy0 
+[lessons] [anime] [hair] https://youtube.com/embed/9qRbdkxEYX0 
+[lessons] [anime] [hair] https://youtube.com/embed/NUTkCP1fgAU 
+[lessons] [anime] [rendering] https://youtube.com/embed/Mc19XdEe8qg 
+[lessons] [anime] [rendering] https://youtube.com/embed/dUvP5lTL8zI 
+[lessons] [drawing] https://www.youtube.com/embed/j1cHCycC5Mw
+[lessons] [drawing] https://youtube.com/embed/m1p9Cg3TT1I 
+[lessons] [drawing] https://youtube.com/embed/zmUMhMs5vFE 
+[lessons] [perspective] https://beyondarchitecturalillustration.blogspot.com/2014/05/perspective-one-point-perspective_8779.html 
+[lessons] [perspective] https://www.youtube.com/embed/DmK3HzS9Eo0 
+[lessons] [perspective] https://www.youtube.com/embed/G82wW90u3sU
+[lessons] [perspective] https://www.youtube.com/embed/hOepFb-Axbo 
+[lessons] [perspective] https://www.youtube.com/embed/mrFDGct4kH8 
+[tutorials] [anatomy] https://animeartmagazine.com/using-contrapposto-to-create-beautiful-standing-poses-for-women/ 
+[tutorials] [anime] [rendering] https://imgur.io/a/Ux5cOPd 
+[tutorials] [clothes] https://g.fxtwitter.com/evanlee082/status/1767139886375817605 
+[tutorials] [rendering] https://g.fxtwitter.com/milkkirie/status/1796260432019431628 
